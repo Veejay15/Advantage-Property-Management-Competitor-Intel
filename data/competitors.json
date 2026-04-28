@@ -1,0 +1,20 @@
+{
+  "competitors": [
+    {
+      "id": "www-reedyandcompany-com",
+      "name": "Reedy & Company",
+      "domain": "https://www.reedyandcompany.com/",
+      "sitemapUrl": "https://www.reedyandcompany.com/sitemap.xml",
+      "addedAt": "2026-04-28",
+      "active": true
+    },
+    {
+      "id": "www-cryeleikepropertymanagement-com",
+      "name": "Crye-Leike Property Management",
+      "domain": "https://www.cryeleikepropertymanagement.com/",
+      "sitemapUrl": "https://www.cryeleikepropertymanagement.com/sitemap.xml",
+      "addedAt": "2026-04-28",
+      "active": true
+    }
+  ]
+}
