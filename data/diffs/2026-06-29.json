@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-29",
+  "previousDate": "2026-06-22",
+  "diffs": [
+    {
+      "competitorId": "www-reedyandcompany-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.reedyandcompany.com/property-management/multi-family/",
+          "lastmod": "2026-06-26T15:31:48+00:00"
+        }
+      ]
+    }
+  ]
+}
