@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-17",
+  "previousDate": "2026-08-10",
+  "diffs": [
+    {
+      "competitorId": "www-reedyandcompany-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.reedyandcompany.com/property-management/single-family/",
+          "lastmod": "2026-08-11T19:17:43+00:00"
+        }
+      ]
+    }
+  ]
+}
