@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-21",
+  "previousDate": "2026-09-14",
+  "diffs": [
+    {
+      "competitorId": "www-reedyandcompany-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.reedyandcompany.com/",
+          "lastmod": "2026-09-18"
+        }
+      ]
+    }
+  ]
+}
