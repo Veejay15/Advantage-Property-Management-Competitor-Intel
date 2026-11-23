@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-23",
+  "previousDate": "2026-11-16",
+  "diffs": [
+    {
+      "competitorId": "www-reedyandcompany-com",
+      "newUrls": [
+        {
+          "url": "https://www.reedyandcompany.com/berclair-property-management",
+          "lastmod": "2026-11-19"
+        },
+        {
+          "url": "https://www.reedyandcompany.com/management-fee-vs-service",
+          "lastmod": "2026-11-20"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.reedyandcompany.com/arlington-property-management",
+          "lastmod": "2026-11-19"
+        },
+        {
+          "url": "https://www.reedyandcompany.com/germantown-property-management",
+          "lastmod": "2026-11-19"
+        },
+        {
+          "url": "https://www.reedyandcompany.com/rent-ready-turn-checklist",
+          "lastmod": "2026-11-20"
+        }
+      ]
+    }
+  ]
+}
